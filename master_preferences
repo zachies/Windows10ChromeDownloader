@@ -9,7 +9,7 @@
    "do_not_create_desktop_shortcut" :false,
    "create_all_shortcuts": false, 
    "do_not_launch_chrome": true, 
-   "make_chrome_default": ture,
+   "make_chrome_default": true,
    "system_level": true
    }
 }
